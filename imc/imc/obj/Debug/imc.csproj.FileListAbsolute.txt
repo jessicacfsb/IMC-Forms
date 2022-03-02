@@ -1,0 +1,10 @@
+C:\Users\six\Desktop\imc - forms\imc\imc\bin\Debug\imc.exe.config
+C:\Users\six\Desktop\imc - forms\imc\imc\bin\Debug\imc.exe
+C:\Users\six\Desktop\imc - forms\imc\imc\bin\Debug\imc.pdb
+C:\Users\six\Desktop\imc - forms\imc\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+C:\Users\six\Desktop\imc - forms\imc\imc\obj\Debug\imc.Form1.resources
+C:\Users\six\Desktop\imc - forms\imc\imc\obj\Debug\imc.Properties.Resources.resources
+C:\Users\six\Desktop\imc - forms\imc\imc\obj\Debug\imc.csproj.GenerateResource.cache
+C:\Users\six\Desktop\imc - forms\imc\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+C:\Users\six\Desktop\imc - forms\imc\imc\obj\Debug\imc.exe
+C:\Users\six\Desktop\imc - forms\imc\imc\obj\Debug\imc.pdb
